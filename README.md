@@ -3,6 +3,7 @@
   - PowerShell
   - Docker
   - Home-Assistant
+  - Espressif (ESP32 & ESP8266)
 - 🌱 I’m currently learning
   - Terraform
   - Bash
